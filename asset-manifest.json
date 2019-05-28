@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-react-webtorrent/static/css/main.94ad8322.chunk.css",
+    "main.js": "/simple-react-webtorrent/static/js/main.b7838ec2.chunk.js",
+    "main.js.map": "/simple-react-webtorrent/static/js/main.b7838ec2.chunk.js.map",
+    "runtime~main.js": "/simple-react-webtorrent/static/js/runtime~main.ff42af93.js",
+    "runtime~main.js.map": "/simple-react-webtorrent/static/js/runtime~main.ff42af93.js.map",
+    "static/js/2.764600bf.chunk.js": "/simple-react-webtorrent/static/js/2.764600bf.chunk.js",
+    "static/js/2.764600bf.chunk.js.map": "/simple-react-webtorrent/static/js/2.764600bf.chunk.js.map",
+    "index.html": "/simple-react-webtorrent/index.html",
+    "precache-manifest.a29274cb7642d5a4b338de9d4e8c0b6c.js": "/simple-react-webtorrent/precache-manifest.a29274cb7642d5a4b338de9d4e8c0b6c.js",
+    "service-worker.js": "/simple-react-webtorrent/service-worker.js",
+    "static/css/main.94ad8322.chunk.css.map": "/simple-react-webtorrent/static/css/main.94ad8322.chunk.css.map",
+    "static/media/logo.svg": "/simple-react-webtorrent/static/media/logo.5d5d9eef.svg"
+  }
+}
